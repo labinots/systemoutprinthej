@@ -3,9 +3,9 @@ package Sup;
 public class chillin {
 	
 	public static void main(String[] args){
+		//cdjbvd//
 		
-		
-		System.out.print("hej");
+		System.out.println("hej");
 		
 		
 	}
